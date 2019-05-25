@@ -1,5 +1,5 @@
 # heart-disease-prediction-using-naive-bayes
-Chuẩn đoán bệnh tiểu đường sử dụng thưu viện sklearn
+Chuẩn đoán bệnh tim mạch sử dụng thưu viện sklearn
 
 1.	Nội dung đề tài
 Hiện nay việc áp dụng các công nghệ tiên tiến vào trong y học đang được các nhà khoa học, nhà nghiên cứu đặc biệt chú ý. Hơn thế nữa tính trạng bệnh tim hiện nay có rất nhiều những rủi ro cho người mắc bệnh. Để giúp y bác sỹ chuẩn đoán cũng như phòng ngừa bệnh được tốt nhất, nhóm mình đề suất đề tài áp dụng học máy trong chuẩn đoán bệnh tim.
