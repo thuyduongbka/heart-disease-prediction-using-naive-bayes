@@ -6,7 +6,6 @@ Hiện nay việc áp dụng các công nghệ tiên tiến vào trong y học �
 2.	Phương pháp tiếp cận
 Ta có thể thấy giữa Machine Learning và lý thuyết xác suất có một sự liên hệ rất khăng khít. Các phương pháp phân loại dựa trên lý thuyết xác suất về cơ bản có thể hiểu là việc tính xem xác suất một sự việc của chúng ta sẽ xảy ra theo hướng như thế nào. Xác suất của hướng nào càng cao thì khả năng sự việc xảy ra theo hướng đó càng nhiều. Điều này đặc biết có ý nghĩa trong bài toán dự đoán và phân lớp của lĩnh vực Machine Learning. Theo thống kê học hiện đại thì tương ứng với mỗi bài toán giải quyết theo phương pháp xác suất thường đi kèm theo một phân phối xác suất phù hợp với bài toán đó. Tương ứng với mỗi phân phối xác suất chúng ta có một cách tính riêng các đại lượng cần thiết cho quá trình chạy các thuật toán như kỳ vọng, độ lệch chuẩn ... 
 
-Đề tài này chúng em chọn sử dụng thuật toán Naive Bayes và phân phối Gaussian để tiến hành triển khai bài toán
 
 2.1	Phân lớp Naïve Bayes
 Là các phương pháp học phân lớp có giám sát và dựa trên xác suất
